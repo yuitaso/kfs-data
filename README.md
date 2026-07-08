@@ -10,3 +10,5 @@ the source spreadsheet is updated. Don't edit them by hand — changes will
 be overwritten on the next update.
 
 - `data/summer.json` — green (summer) schedule data
+- `data/winter.json` — winter schedule data
+- `data/coaches.json` — coach profiles
